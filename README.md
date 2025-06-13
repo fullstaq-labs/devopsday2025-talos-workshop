@@ -69,3 +69,4 @@ cluster:
 
 # Restart Deployment
 `kubectl rollout -n devopsdays-ams restart deployments/devopsdays-ams`
+## task 12
