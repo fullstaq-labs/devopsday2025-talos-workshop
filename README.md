@@ -68,5 +68,5 @@ cluster:
 ## task 11
 
 # Restart Deployment
-`kubectl rollout -n devopsdays-ams restart deployments/devopsdays-ams`
+`kubectl rollout -n devopsdays-ams restart deployments/talos-workshop`
 ## task 12
